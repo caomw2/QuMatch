@@ -1,7 +1,6 @@
 # QuMatch
 
-Image feature matching with an **end-to-end coherent L2 Grover oracle** and a
-QPP swap test, built with [OpenCV](https://opencv.org/),
+QuMatch: Image Matching with **Quantum Grover Search and Swap Tes**t, built with [OpenCV](https://opencv.org/),
 [Quantum++ (QPP)](https://github.com/softwareQinc/qpp), and Eigen.
 
 ## Code structure
